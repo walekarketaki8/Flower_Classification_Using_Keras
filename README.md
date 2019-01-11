@@ -12,13 +12,13 @@ Dataset contains 5 folders, each folder represents different flower classses. Ch
 To convert downloaded data into above format use **Dataset Preparation Keras Format.ipynb** which saggreates data into test(20% of entire data) and train.<br>
 
 3. Training : Once **train** and **test** folders are ready, train model using command
-```bash
+>> ```bash
 python cnn.py 
 ```
   We can change parameters as per our requirements which includes input_shape, batch_size, nb_epoch. Also can modify CNN    architecture by adding more layers and more nodes in each layer etc.
 
 4. Testing : **cnn.py**. will give **model.h5**. To test on any image run below command
-```bash 
+>> ```bash 
 python test_cnn.py <image_path>
 ```
 5. Sample Result:<br>
