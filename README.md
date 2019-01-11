@@ -15,7 +15,7 @@ To convert downloaded data into above format use **Dataset Preparation Keras For
 ```bash
 python cnn.py 
 ```
-> We can change parameters as per our requirements which includes input_shape, batch_size, nb_epoch. Also can modify CNN    architecture by adding more layers and more nodes in each layer etc.
+>> We can change parameters as per our requirements which includes input_shape, batch_size, nb_epoch. Also can modify CNN    architecture by adding more layers and more nodes in each layer etc.
 
 4. Testing : **cnn.py**. will give **model.h5**. To test on any image run below command
 ```bash 
