@@ -18,7 +18,7 @@ We can change parameters as per our requirements which includes input_shape, bat
 ```bash 
 python test_cnn.py <image_path>
 ```
-5. Sample Result:
+5. Sample Result:<br>
 ![Result](result.png)<br>
 
 
