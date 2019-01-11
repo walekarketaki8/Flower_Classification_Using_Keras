@@ -7,7 +7,7 @@ Steps to follow to run the project:<br>
 Dataset contains 5 folders, each folder represents different flower classes. Change the name of main folder **flower_photos** to
 **dataset**.
 
-2. Dataset Format : Keras need dataset to be in below format.<br>
+2. Directory Structure : Keras need dataset to be in below format.<br>
  ![Dataset Fromat](save.png)<br>
 To convert downloaded data into above format use **Dataset Preparation Keras Format.ipynb** which segregate data into test(20% of entire data) and train.<br>
 
