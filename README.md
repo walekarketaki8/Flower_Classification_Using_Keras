@@ -4,12 +4,12 @@ This project is done using Keras.Keras has ImageDataGenerator class which we use
 
 Steps to follow to run the project:<br>
 1. Download dataset : To download dataset click **[here](http://download.tensorflow.org/example_images/flower_photos.tgz)** 
-Dataset contains 5 folders, each folder represents different flower classses. Change the name of main folder **flower_photos** to
+Dataset contains 5 folders, each folder represents different flower classes. Change the name of main folder **flower_photos** to
 **dataset**.
 
 2. Data Preprocessing : Keras need dataset to be in below format.<br>
  ![Dataset Fromat](save.png)<br>
-To convert downloaded data into above format use **Dataset Preparation Keras Format.ipynb** which saggreates data into test(20% of entire data) and train.<br>
+To convert downloaded data into above format use **Dataset Preparation Keras Format.ipynb** which segregate data into test(20% of entire data) and train.<br>
 
 3. Training : Once **train** and **test** folders are ready, train model using command
 ```bash
