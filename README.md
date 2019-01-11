@@ -7,5 +7,5 @@ Steps to follow to run the project:<br>
 Dataset contains 5 folders, each folder represents different flower classses. Change the name of main folder **flower_photos** to
 **dataset**.
 2. Data Preprocessing : Keras need dataset to be in below format.
-> ![sample-result](result.png)
+> ![sample-result](save.png)
 
