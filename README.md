@@ -4,8 +4,7 @@ This project is done using Keras.Keras has ImageDataGenerator class which we use
 
 Steps to follow to run the project:<br>
 1. Download dataset : To download dataset click **[here](http://download.tensorflow.org/example_images/flower_photos.tgz)** 
-Dataset contains 5 folders, each folder represents different flower classes. Change the name of main folder **flower_photos** to
-**dataset**.
+Dataset contains 5 folders, each folder represents different flower classes.
 
 2. Directory Structure : Keras need directory structure of dataset to be in below format.<br>
  ![Dataset Fromat](save.png)<br>
