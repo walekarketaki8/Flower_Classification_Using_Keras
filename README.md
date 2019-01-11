@@ -13,13 +13,13 @@ To convert downloaded data into above format use **Dataset Preparation Keras For
 
 3. Training : Once **train** and **test** folders are ready, train model using command
 ```bash
-python cnn.py 
+** python cnn.py **
 ```
 > We can customize all the  parameters as per our requirements which includes input_shape, batch_size, nb_epoch. Also can modify CNN architecture by adding more layers and more nodes in each layer etc.<br>
 
 4. Testing : **cnn.py**. will give **model.h5**. To test on any image run below command
 ```bash 
-python test_cnn.py <image_path>
+** python test_cnn.py <image_path> **
 ```
 5. **TRAIN_TEST_CNN.ipynb** contains training and testing in single code. It will give results of model on test set in **Pred.csv** file.<br>
 
